@@ -1,3 +1,4 @@
+// C++ program to check sum of n numbers
 #include <iostream>
 using namespace std;
 
